@@ -10,3 +10,8 @@ Toy.create(name: 'Teddy Bear',
     img: "https://media.istockphoto.com/photos/brown-teddy-bear-isolated-in-front-of-a-white-background-picture-id909772478?k=20&m=909772478&s=612x612&w=0&h=mzLuJ7ywrSDHmpchf9spOeNF2Ovr2aQBw1z57Szx17g="
  )
  
+ Toy.create(name: 'Legos',
+    price: 50,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKoWiUVkhwIFIkYPUs_TjDw-3CY6rRWVtTLg&usqp=CAU"
+ )
+ 
