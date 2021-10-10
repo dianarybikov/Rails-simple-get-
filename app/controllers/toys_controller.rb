@@ -6,4 +6,9 @@ class ToysController < ApplicationController
     end
   
  
+    def show
+        @toy = Toy.find ( params[:id] )
+        render json: @toy
+    end
+ 
 end
