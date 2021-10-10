@@ -14,4 +14,6 @@ Toy.create(name: 'Teddy Bear',
     price: 50,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKoWiUVkhwIFIkYPUs_TjDw-3CY6rRWVtTLg&usqp=CAU"
  )
- 
+ Toy.create(name: 'Toy Train',
+    price: 100,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXJBNH1y--UHP-gB7iObH-mG3XLMDRDrLkg&usqp=CAU")
